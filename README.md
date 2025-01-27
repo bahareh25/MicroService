@@ -1,5 +1,5 @@
 # myMicroservice
-### Different small sample of React project
+### Different small sample of Microservice pattern and concept project
 1. ValueObject
 2. EntitySample
 3. DomainEvents
