@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08844565-2084-4236-83c4-f94130f076cb": {
+      "ProjectGuid": "08844565-2084-4236-83c4-f94130f076cb",
+      "DisplayName": "ValueObject.Framework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

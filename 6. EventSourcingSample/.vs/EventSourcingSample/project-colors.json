@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc00704f-5c00-4e54-919c-691b0c44621e": {
+      "ProjectGuid": "dc00704f-5c00-4e54-919c-691b0c44621e",
+      "DisplayName": "EventSourcingSample.Framework",
+      "ColorIndex": 0
+    },
+    "fa61829d-785e-40be-a86f-a8f14fb774e4": {
+      "ProjectGuid": "fa61829d-785e-40be-a86f-a8f14fb774e4",
+      "DisplayName": "EventSourcingSample.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

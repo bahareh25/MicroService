@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d714e7cc-ca2f-4c5c-bbb8-66eecf1ed228": {
+      "ProjectGuid": "d714e7cc-ca2f-4c5c-bbb8-66eecf1ed228",
+      "DisplayName": "NewCms.Endpoints.API",
+      "ColorIndex": 0
+    },
+    "0f4d94a9-ecf2-4480-9793-1ba8a7d701f3": {
+      "ProjectGuid": "0f4d94a9-ecf2-4480-9793-1ba8a7d701f3",
+      "DisplayName": "NewCms.Infra.Data.Sql.Queries",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

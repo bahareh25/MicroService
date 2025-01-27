@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJiRz1Pkiwvmdcr5YaiaFhveH1eNpz9SCHS+ygxPq6OOVnQvelf4eRftXD+DowNLrh2Fj3mTqehJ5N+LojIRXw==",
+  "success": true,
+  "projectFilePath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\09. ValueObject\\ValueObject.Framework\\ValueObject.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

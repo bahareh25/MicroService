@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Endpoint\\EventSourcingSample.Endpoint.csproj": {}
+  },
+  "projects": {
+    "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\EventSourcingSample.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\EventSourcingSample.Dal.csproj",
+        "projectName": "EventSourcingSample.Dal",
+        "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\EventSourcingSample.Dal.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj": {
+                "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj",
+        "projectName": "EventSourcingSample.Domain",
+        "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\EventSourcingSample.Framework.csproj": {
+                "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\EventSourcingSample.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Endpoint\\EventSourcingSample.Endpoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Endpoint\\EventSourcingSample.Endpoint.csproj",
+        "projectName": "EventSourcingSample.Endpoint",
+        "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Endpoint\\EventSourcingSample.Endpoint.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Endpoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\EventSourcingSample.Dal.csproj": {
+                "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Dal\\EventSourcingSample.Dal.csproj"
+              },
+              "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj": {
+                "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Domain\\EventSourcingSample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\EventSourcingSample.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\EventSourcingSample.Framework.csproj",
+        "projectName": "EventSourcingSample.Framework",
+        "projectPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\EventSourcingSample.Framework.csproj",
+        "packagesPath": "C:\\Users\\b.broumand\\.nuget\\packages\\",
+        "outputPath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\14. EventSourcingSample\\EventSourcingSample.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.broumand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "EventStore.Client.Grpc.Streams": {
+              "target": "Package",
+              "version": "[22.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

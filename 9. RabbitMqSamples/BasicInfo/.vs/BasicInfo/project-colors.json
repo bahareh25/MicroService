@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13009470-42b7-4157-990d-fcd0f952f593": {
+      "ProjectGuid": "13009470-42b7-4157-990d-fcd0f952f593",
+      "DisplayName": "BasicInfo.Infra.Data.Sql.Commands",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

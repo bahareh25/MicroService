@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SJUM/pn96NpakYA1fSO5Xin3mw33zmAJFSE8qK9ow9ml4/oRFXNzUVECHc01FtaJrT5fQ6fWlcq2wyj3L0vpw==",
+  "success": true,
+  "projectFilePath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\33. RabbitMqSamples\\Rabbit Samples\\TopicRouting\\RabbitSamples.TopicRouting.Logger\\RabbitSamples.TopicRouting.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.5\\microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.5\\microsoft.windowsdesktop.app.ref.6.0.5.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

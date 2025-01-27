@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89c0f372-1e20-4036-ae78-bce88d6df5ef": {
+      "ProjectGuid": "89c0f372-1e20-4036-ae78-bce88d6df5ef",
+      "DisplayName": "RabbitMqSamples.RPC.Server",
+      "ColorIndex": 0
+    },
+    "a6e30252-f9aa-4374-9b93-41fd8200091a": {
+      "ProjectGuid": "a6e30252-f9aa-4374-9b93-41fd8200091a",
+      "DisplayName": "RabbitMqSamples.RPC.SyncClient",
+      "ColorIndex": 1
+    },
+    "cf0effd0-3070-43f7-aaa1-35764a559c85": {
+      "ProjectGuid": "cf0effd0-3070-43f7-aaa1-35764a559c85",
+      "DisplayName": "RabbitMqSamples.RPC.AsyncClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

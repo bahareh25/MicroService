@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQIYV/WS2NOS0K6Yn7oEeQYKE9bf8UHjwY5e/o/WUKGvBxkIvfjgRbcABpe893MEod9M/bjRlaqA7IERKD10BA==",
+  "success": true,
+  "projectFilePath": "E:\\Course\\NikAmooz\\Microservice\\ProMicroservice-main\\ProMicroservice-main\\33. RabbitMqSamples\\Rabbit Samples\\TopicRouting\\RabbitSamples.TopicRouting.EmailReceiver\\RabbitSamples.TopicRouting.EmailReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b.broumand\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\b.broumand\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
