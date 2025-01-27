@@ -1,9 +1,14 @@
-# myReact
+# myMicroservice
 ### Different small sample of React project
-1. Backend GRPc front React
-2. React_FileUploade 
-3. React_Redux
-4. Backend Rest front React
-5. React Server side rendering
+1. ValueObject
+2. EntitySample
+3. DomainEvents
+4. Aggregates
+5. Repository
+6. EventSourcing
+7. CQRS
+8. API GateWay
+9. RabbitMq
+10. Observability
 
 
